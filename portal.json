@@ -15,7 +15,8 @@
     "dat://9c2ec6f5cdcc1cdc7a31c8df9b65128af7a89f00bb08819405351e48f3cfada0/",
     "dat://9aaf4eaa47fd8a44e28621eb59559f087d0bb282471cdf78989b12335a8bd25f/",
     "dat://6fd46b20841eb9652081894a16014f12e19f47b97af4ab10c093284fba611d15/",
-    "dat://0b34f61761b6d632ad81e22101448d4a45b563bd2399c6a5b1877684b3624916/"
+    "dat://0b34f61761b6d632ad81e22101448d4a45b563bd2399c6a5b1877684b3624916/",
+    "dat://60f134e8fb243fbf4a0f8a252cc9aa09bdcf4ecac2efbcb8455aa01c8a04b4b0/"
   ],
   "feed": [
     {
@@ -25,6 +26,11 @@
     {
       "message": "Hello world! Glad to be here :D",
       "timestamp": 1508119179686
+    },
+    {
+      "message": "@neauoire Oh thanks! Super interested in seeing where this goes :3",
+      "timestamp": 1508120080323,
+      "target": "dat://2f21e3c122ef0f2555d3a99497710cd875c7b0383f998a2d37c02c042d598485"
     }
   ],
   "site": "http://somnius.co",
