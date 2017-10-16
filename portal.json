@@ -16,7 +16,12 @@
     "dat://9aaf4eaa47fd8a44e28621eb59559f087d0bb282471cdf78989b12335a8bd25f/",
     "dat://6fd46b20841eb9652081894a16014f12e19f47b97af4ab10c093284fba611d15/",
     "dat://0b34f61761b6d632ad81e22101448d4a45b563bd2399c6a5b1877684b3624916/",
-    "dat://60f134e8fb243fbf4a0f8a252cc9aa09bdcf4ecac2efbcb8455aa01c8a04b4b0/"
+    "dat://60f134e8fb243fbf4a0f8a252cc9aa09bdcf4ecac2efbcb8455aa01c8a04b4b0/",
+    "dat://49a043352e6bd3d00e8398b56c79b0dc3c3ec92f678259cb505ece6673e486cd/",
+    "dat://c3facad89fec7b9ff0679db2c5055839af7c37ec4e62847d32de2c297786fe9a/",
+    "dat://7fa4dea2b16585f994f576cc1356dc6443b8449b00fbadf70cb19827d2238fd3/",
+    "dat://7244a38d3a26a425b10e09f4443627a9f231057d8cd7ac75267ea25c55a25f26/",
+    "dat://420327654a777b5c6eb32621dfc0994be673bb0f90b97da805c8be07d80fd38e/"
   ],
   "feed": [
     {
@@ -31,6 +36,10 @@
       "message": "@neauoire Oh thanks! Super interested in seeing where this goes :3",
       "timestamp": 1508120080323,
       "target": "dat://2f21e3c122ef0f2555d3a99497710cd875c7b0383f998a2d37c02c042d598485"
+    },
+    {
+      "message": "Hoping that using system fonts instead of any external fonts will help make loading my Rotonde instance a bit easier for y'all. Seems to be pretty swift so far!",
+      "timestamp": 1508135185053
     }
   ],
   "site": "http://somnius.co",
