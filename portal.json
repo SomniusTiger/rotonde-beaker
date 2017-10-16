@@ -2,12 +2,29 @@
   "name": "somnius",
   "desc": "Achromatic, tiger, audiophile, polyglot, software engineer, indie & rhythm gamer, pronoun-agnostic. A blend of positivity and nihilism.",
   "port": [
-    "dat://2f21e3c122ef0f2555d3a99497710cd875c7b0383f998a2d37c02c042d598485/"
+    "dat://2f21e3c122ef0f2555d3a99497710cd875c7b0383f998a2d37c02c042d598485/",
+    "dat://223e4ab259fe5c8d622b52025be869f11a726091772f14ab3603d7182442c6eb/",
+    "dat://0cd187bbe6a44b0462d4bc32519ee6c9a55ce25eafb3b11e33621c307e275c96/",
+    "dat://864832957014606cf35e907164f3c7670861a535e9272c6f3e063e6c7439230a/",
+    "dat://76bcf02b4fd120d89236b58a960bcd05f5f0cb55afe9ddc0011f75ef176e52f3/",
+    "dat://a845fb226f56dae68aea6810a63fc44e23b76a58e13c3e665863c67bfd61a5a9/",
+    "dat://f7e6a92a240b365df4bc723ab8e0815f49217c2b052030a781aabfcd5a66c205/",
+    "dat://3cc6b590df09ba8d87fef7cb235f0e3d3a6b6f256c7f0b0dc63059a22f638a48",
+    "dat://d71d3235074094e7975b3a748a876066e0e2a8f4d6e0e48648dacea8c7964e65",
+    "dat://939b6924804ba5648d3f6aa5f4b542eb5489c4e1bb8b94df89ddf8d0a6a77c0c/",
+    "dat://9c2ec6f5cdcc1cdc7a31c8df9b65128af7a89f00bb08819405351e48f3cfada0/",
+    "dat://9aaf4eaa47fd8a44e28621eb59559f087d0bb282471cdf78989b12335a8bd25f/",
+    "dat://6fd46b20841eb9652081894a16014f12e19f47b97af4ab10c093284fba611d15/",
+    "dat://0b34f61761b6d632ad81e22101448d4a45b563bd2399c6a5b1877684b3624916/"
   ],
   "feed": [
     {
       "message": "Hello!",
       "timestamp": 1507856153794
+    },
+    {
+      "message": "Hello world! Glad to be here :D",
+      "timestamp": 1508119179686
     }
   ],
   "site": "http://somnius.co",
